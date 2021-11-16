@@ -1,6 +1,6 @@
 {
   "res": 401,
-  "res_message": "",
+  "res_message": "Unauthorized siteId",
   "debug_info"
 : [
     {}
